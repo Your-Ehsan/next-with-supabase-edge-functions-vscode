@@ -1,0 +1,29 @@
+{
+    "folders": [
+      {
+        "name": "project-root",
+        "path": "./"
+      },
+      {
+        "name": "supabase-functions",
+        "path": "supabase/functions"
+      }
+    ],
+    "settings": {
+      "files.exclude": {
+        "node_modules/": true,
+        "supabase/functions/": true
+      },
+      "deno.enablePaths": [
+        "supabase/functions"
+      ],
+      "deno.lint": true,
+      "deno.unstable": true,
+      "[typescript]": {
+        "editor.defaultFormatter": "denoland.vscode-deno"
+      },
+      "deno.importMap": "./supabase/functions/import_map.json", // (optional) if you have any import map
+      "typescript.tsdk": "project-root\\node_modules\\typescript\\lib" // this line is optional but recommended
+    }
+  }
+  
