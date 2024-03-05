@@ -1,3 +1,5 @@
+![setup-supabase-edge-function-in vscode-next -js](https://github.com/Your-Ehsan/next-with-supabase-edge-functions-vscode/assets/93027825/d1536875-7bd2-4cc3-b210-27dc9269a1e9)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
